@@ -1,0 +1,36 @@
+[12:27 pm, 12/3/2026] Aaftab Charoliya: This project analyzes IPL 2025 match data using Power BI.
+The dashboard shows key insights such as total runs, total wickets, top batsmen, top bowlers, and matches by city.
+It helps to understand team and player performance through interactive visualizations.
+[12:30 pm, 12/3/2026] Aaftab Charoliya: IPL 2025 Data Analysis Dashboard
+
+Project Overview
+
+This project analyzes IPL 2025 cricket data using Power BI. The goal of this project is to understand player performance, match statistics, and venue analysis through interactive dashboards.
+
+Tools Used
+
+- Power BI
+- Excel / CSV Dataset
+
+Dashboard Insights
+
+- Total Runs scored in IPL 2025
+- Total Wickets taken
+- Top Batsmen based on runs
+- Top Bowlers based on wickets
+- Matches played by city
+
+Features
+
+- Interactive dashboard
+- City filter for match analysis
+- Player performance visualization
+- Professional Power BI design
+
+File
+
+- IPL_PRO.pbix (Power BI dashboard file)
+
+Author
+
+Data Analytics Project
